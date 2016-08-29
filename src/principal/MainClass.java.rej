@@ -1,0 +1,9 @@
+diff a/src/principal/MainClass.java b/src/principal/MainClass.java	(rejected hunks)
+@@ -52,7 +52,6 @@
+ 			resultArray[4] = calcular.bissecao();
+ 		}
+ 		if(	option[5] == true){
+-			resultArray[3] = calcular.newton();
+ 			resultArray[5] = calcular.newton();
+ 		}
+ 		return (resultArray);

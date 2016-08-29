@@ -1,0 +1,9 @@
+diff a/src/principal/Methods.java b/src/principal/Methods.java	(rejected hunks)
+@@ -231,6 +231,7 @@
+ 	}
+ 	
+ double derivadaprim(double x) throws LexerException, ParserException{
++<<<<<<< HEAD
+ 	double h, d1, d2 ;
+ =======
+ 	double h, d1, d2 = 1000;

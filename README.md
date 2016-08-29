@@ -1,4 +1,2 @@
 # PNLMult
-Trabalho realizado para a disciplina de Pesquisa Operacional 2. 
-
-
+Final project for Operations Research II class at Sao Paulo State University (UNESP).
